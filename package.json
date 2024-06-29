@@ -1,0 +1,23 @@
+{
+  "name": "todo_nodejs",
+  "version": "1.0.0",
+  "description": "Simple todo application in node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romitsutaria/Todo_NodeJs.git"
+  },
+  "keywords": [
+    "Node",
+    "Js"
+  ],
+  "author": "Romit Sutariya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romitsutaria/Todo_NodeJs/issues"
+  },
+  "homepage": "https://github.com/romitsutaria/Todo_NodeJs#readme"
+}
