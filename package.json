@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/romitsutaria/Todo_NodeJs/issues"
   },
-  "homepage": "https://github.com/romitsutaria/Todo_NodeJs#readme"
+  "homepage": "https://github.com/romitsutaria/Todo_NodeJs#readme",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
 }
