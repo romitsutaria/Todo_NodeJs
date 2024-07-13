@@ -1,4 +1,3 @@
-name: Node.js build
 on:
   workflow_dispatch:
     inputs:
