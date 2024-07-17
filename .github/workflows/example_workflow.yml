@@ -1,0 +1,17 @@
+name: example workflw
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  example_job:
+    runs-on: ubuntu-lateast
+    steps:
+      - name: checkout code
+        uses: actions/checkout@v4
+
+      - name: Execute command
+        run: echo Hello, Github workflow! 
+
